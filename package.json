@@ -1,0 +1,12 @@
+{
+  "name": "sample-proj",
+  "version": "0.1",
+  "description": "An example module to illustrate the usage proj",
+  "author": "praveen",
+  "main": "server.js",
+  "keywords": [
+    "nodejitsu",
+    "example",
+    "browsenpm"
+  ]
+}
